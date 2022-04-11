@@ -32,11 +32,12 @@ current method: our method is therefore more reliable for real-life
 applications.
 
 Recommended citation:
-
-    @inproceedings{wang2021effective,
-      title={Effective and privacy-preserving federated online learning to rank},
-      author={Wang, Shuyi and Liu, Bing and Zhuang, Shengyao and Zuccon, Guido},
-      booktitle={Proceedings of the 2021 ACM SIGIR International Conference on Theory of Information Retrieval},
-      pages={3--12},
-      year={2021}
-    }
+```
+@inproceedings{wang2021effective,
+  title={Effective and privacy-preserving federated online learning to rank},
+  author={Wang, Shuyi and Liu, Bing and Zhuang, Shengyao and Zuccon, Guido},
+  booktitle={Proceedings of the 2021 ACM SIGIR International Conference on Theory of Information Retrieval},
+  pages={3--12},
+  year={2021}
+}
+```
