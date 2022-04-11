@@ -19,7 +19,7 @@ Education
 
 Work experience
 ---
-* Data Analyst, Suning Financial Services Group, China from Jul. 2017 to Dec. 2019
+* Data Analyst, Suning Financial Services Group, China, 07/2017 - 12/2019
   * Duties included: Improving the performance of Marketing and Risk Management using Data Analysis techniques and Machine Learning methods. 
 
   
