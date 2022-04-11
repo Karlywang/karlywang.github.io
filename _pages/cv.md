@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - current
+* M.S. in Applied Statistics, Southeast University, China, 2017
+* B.S. in Statistics, Nanjing Normal University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Analyst, Suning Financial Services Group, China from Jul. 2017 to Dec. 2019
+  * Duties included: Improving the performance of Marketing and Risk Management using Data Analysis techniques and Machine Learning methods. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
 
 Publications
 ======
@@ -42,18 +37,50 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
+<!--   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Subreviewer of SIGIR 2022 
+* Session chair of the Privacy and Cybersecurity session at CIKM 2021
+* Student Volunteer of CIKM 2021, SIGIR 2021
+
+
+Teaching
+======
+* Relational Database System (INFS2200/7903), Semester 2, 2021
+  * The University of Queensland (St Lucia campus)
+  * Tutor for practical sessions
+* Relational Database System (INFS2200/7903), Semester 2, 2020
+  * The University of Queensland (St Lucia campus)
+  * Tutor for tutorial sessions
+
+
+
+Honors & Awards
+======
+* Best Student Paper Award, ICTIR 2021 (first author)
+* Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
+
+
+
+Language
+======
+* Mandarin Chinese (naive)
+* English (fluent)
+
+
+
+
