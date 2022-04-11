@@ -6,6 +6,7 @@ date: 2021-01-01
 venue: 'European Conference on Information Retrieval (ECIR)'
 ---
 
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_10)
 
 # Abstract
 Online Learning to Rank (OLTR) optimizes ranking models using implicit users’ feedback, such as clicks, directly manipulating search engine results in production. This process requires OLTR methods to collect user queries and clicks; current methods are not suited to situations in which users want to maintain their privacy, i.e. not sharing data, queries and clicks.
@@ -15,8 +16,6 @@ Recently, the federated OLTR with evolution strategies (FOLtR-ES) method has bee
 Our findings question whether FOLtR-ES is a mature method that can be considered in practice: its effectiveness largely varies across datasets, click types, ranker types and settings. Its performance is also far from that of current state-of-the-art OLTR, questioning whether the maintained of privacy guaranteed by FOLtR-ES is not achieved by seriously undermining search effectiveness and user experience.
 
 **Keywords**: Online learning to rank; Federated machine learning; Differential privacy
-
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_10)
 
 Recommended citation:
 
