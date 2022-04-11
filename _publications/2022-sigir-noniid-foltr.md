@@ -1,5 +1,6 @@
 ---
 title: "Is non-IID Data a Threat in Federated Online Learning to Rank?"
+Authors: **Shuyi Wang**, Guido Zuccon
 collection: publications
 permalink: /publication/2022-sigir-noniid-foltr
 date: 2022-01-01
