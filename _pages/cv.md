@@ -12,19 +12,19 @@ redirect_from:
 ---
 
 Education
-======
+---
 * Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - current
 * M.S. in Applied Statistics, Southeast University, China, 2017
 * B.S. in Statistics, Nanjing Normal University, 2015
 
 Work experience
-======
+---
 * Data Analyst, Suning Financial Services Group, China from Jul. 2017 to Dec. 2019
   * Duties included: Improving the performance of Marketing and Risk Management using Data Analysis techniques and Machine Learning methods. 
 
   
 <!-- Skills
-======
+---
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -34,13 +34,13 @@ Work experience
 
 
 Publications
-======
+---
   <ul>{% for post in site.publications %}
     {% include archive-single.html %}
   {% endfor %}</ul>
   
 <!-- Talks
-======
+---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
