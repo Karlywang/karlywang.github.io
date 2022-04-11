@@ -12,40 +12,31 @@ I am currently a second-year Ph.D. student at the [School of Information Technol
 
 My research interest mainly lies in Online Learning to Rank, Data Privacy and Federated Learning.
 
+Publications
+---
+  <ul>{% for post in site.publications %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
+  
 
 Academic Service
-----
-* PC member of the reproducibility track at SIGIR 2022 
-* Session chair of the Algorithmic Issues in Graph Mining session at CIKM 2021
-* Subreviewer of AAAI 2021, CIKM 2021, VLDB 2020, DASFAA 2020
+---
+* Subreviewer of SIGIR 2022 
+* Session chair of the Privacy and Cybersecurity session at CIKM 2021
+* Student Volunteer of CIKM 2021, SIGIR 2021
+
+
+Honors & Awards
+---
+* Best Student Paper Award, ICTIR 2021 (first author)
+* Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
 
 
 Teaching
 ---
-* Relational Database System (INFS2200/7903), Semester 2, 2021
-  * The University of Queensland (St Lucia campus)
-  * Tutor for practical sessions
-* Relational Database System (INFS2200/7903), Semester 2, 2020
-  * The University of Queensland (St Lucia campus)
-  * Tutor for tutorial sessions
-
-Industry Experience
----
-* Algorithm Intern, Huawei Technologies Co., Ltd, Jun. - Aug. 2019
-  * Log anomaly detection based on sequential modelling
-
-
-Honors & Awards
-----
-* Best Student Paper Award, ICTIR 2021 (second author)
-* Meritorious Winner (top 10%), The International Mathematical Contest in Modeling, Apr. 2013
-
-
-
-Language
-----
-* Mandarin Chinese (naive)
-* English (fluent)
-
+* Tutoring of Data Science Capstone Project (DATA7901/7902/7903) at The University of Queensland (St Lucia campus) 
+  * Master course
+  * Semester 1 & 2, 2021
+  * Supervision for Master Capstone Project on Federated Learning
 
 
