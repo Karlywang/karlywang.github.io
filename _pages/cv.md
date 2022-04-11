@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+#
+
 Education
 ======
 * Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - current
@@ -34,20 +36,13 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
-<!--   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
 
@@ -58,22 +53,18 @@ Academic Service
 * Student Volunteer of CIKM 2021, SIGIR 2021
 
 
-Teaching
-======
-* Relational Database System (INFS2200/7903), Semester 2, 2021
-  * The University of Queensland (St Lucia campus)
-  * Tutor for practical sessions
-* Relational Database System (INFS2200/7903), Semester 2, 2020
-  * The University of Queensland (St Lucia campus)
-  * Tutor for tutorial sessions
-
-
-
 Honors & Awards
 ======
 * Best Student Paper Award, ICTIR 2021 (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
 
+
+Teaching
+======
+* Tutoring of Data Science Capstone Project (DATA7901/7902/7903) at The University of Queensland (St Lucia campus) 
+  * Master course
+  * Semester 1 & 2, 2021
+  * Supervision for Master Capstone Project on Federated Learning
 
 
 Language
