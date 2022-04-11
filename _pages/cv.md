@@ -47,20 +47,20 @@ Publications
 
 
 Academic Service
-======
+---
 * Subreviewer of SIGIR 2022 
 * Session chair of the Privacy and Cybersecurity session at CIKM 2021
 * Student Volunteer of CIKM 2021, SIGIR 2021
 
 
 Honors & Awards
-======
+---
 * Best Student Paper Award, ICTIR 2021 (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
 
 
 Teaching
-======
+---
 * Tutoring of Data Science Capstone Project (DATA7901/7902/7903) at The University of Queensland (St Lucia campus) 
   * Master course
   * Semester 1 & 2, 2021
@@ -68,7 +68,7 @@ Teaching
 
 
 Language
-======
+---
 * Mandarin Chinese (naive)
 * English (fluent)
 
