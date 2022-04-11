@@ -2,8 +2,7 @@
 title: "Federated Online Learning to Rank with Evolution Strategies: A Reproducibility Study"
 collection: publications
 permalink: /publication/2021-ecir-foltr-es-reproduce
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-01-01
 venue: 'European Conference on Information Retrieval (ECIR)'
 ---
 
