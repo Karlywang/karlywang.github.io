@@ -86,7 +86,7 @@ author:
   location         : "Brisbane, QLD, Australia"
   employer         :
   pubmed           : # ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : shuyi.wang@uq.edu.au
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
