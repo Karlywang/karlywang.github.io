@@ -6,6 +6,7 @@ date: 2021-01-01
 venue: 'European Conference on Information Retrieval (ECIR)'
 ---
 
+
 # Abstract
 Online Learning to Rank (OLTR) optimizes ranking models using implicit users’ feedback, such as clicks, directly manipulating search engine results in production. This process requires OLTR methods to collect user queries and clicks; current methods are not suited to situations in which users want to maintain their privacy, i.e. not sharing data, queries and clicks.
 
