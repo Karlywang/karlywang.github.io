@@ -8,13 +8,5 @@ date: 2021-01-01
 location: "St Lucia campus, Brisbane, Australia"
 ---
 
-Supervision for Master Capstone Project on Federated Learning
+Duties included: Supervision for Master Capstone Project on Federated Learning
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
