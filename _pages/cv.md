@@ -56,6 +56,7 @@ Academic Service
 Honors & Awards
 ---
 * [**Best Student Paper Award**, ICTIR 2021](https://ictir2021.org/awards/) (first author)
+* SIGIR Student Travel Grant in SIGIR 2022
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
 
 
