@@ -7,7 +7,7 @@ date: 2021-07-11
 venue: 'International Conference on the Theory of Information Retrieval (ICTIR)'
 authors: '<strong>Shuyi Wang</strong>, Bing Liu, Shengyao Zhuang, Guido Zuccon'
 track: 'Full Paper, &#x1F3C6; Best Student Paper Award'
-pdf_url: "http://ielab.io/publications/pdfs/wang2021fpdgd.pdf"
+pdf_url: "https://dl.acm.org/doi/abs/10.1145/3471158.3472236"
 code_url: "https://github.com/ielab/fpdgd-ictir2021"
 ---
 
