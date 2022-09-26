@@ -15,12 +15,12 @@ Education
 ---
 * Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - current
 * M.S. in Applied Statistics, Southeast University, China, 2015 - 2017
-* B.S. in Statistics, Nanjing Normal University, 2011 - 2015
+* B.S. in Statistics, Nanjing Normal University, China, 2011 - 2015
 
 Work experience
 ---
 * Data Analyst, Suning Financial Services Group, China, 07/2017 - 12/2019
-  * Duties included: Improving the performance of Marketing and Risk Management using Data Analysis techniques and Machine Learning methods. 
+  * Duties included: Improving the performance in Marketing and Risk Management with Data Analysis techniques and Machine Learning methods. 
 
   
 <!-- Skills
@@ -46,19 +46,25 @@ Publications
   {% endfor %}</ul> -->
 
 
-Academic Service
----
-* Subreviewer of SIGIR 2022 
-* Session chair of the Privacy and Cybersecurity session at CIKM 2021
-* Student Volunteer of CIKM 2021, SIGIR 2021
-
 
 Honors & Awards
 ---
-* Google PhD Fellowship, 2022
-* SIGIR Student Travel Grant in SIGIR 2022
-* [**Best Student Paper Award**, ICTIR 2021](https://ictir2021.org/awards/) (first author)
+* [Google PhD Fellowship, 2022](https://research.google/outreach/phd-fellowship/recipients/?category=2022)
+* SIGIR Student Travel Grant, SIGIR 2022
+* [Best Student Paper Award, ICTIR 2021](https://ictir2021.org/awards/) (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
+* First Prize of Academic Scholarships, Nanjing Normal University, 2014
+* Excellent Student, Nanjing Normal University, from 2012 to 2014
+
+
+
+Academic Service
+---
+* Reviewer: AISTATS 2023
+* Subreviewer: SIGIR 2022
+* Session chair of the Privacy and Cybersecurity session at CIKM 2021
+* Student Volunteer: CIKM 2021, SIGIR 2021
+
 
 
 Teaching
