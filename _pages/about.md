@@ -23,7 +23,7 @@ Honors & Awards
 ---
 * [Google PhD Fellowship, 2022](https://research.google/outreach/phd-fellowship/recipients/?category=2022)
 * SIGIR Student Travel Grant, SIGIR 2022
-* [**Best Student Paper Award**, ICTIR 2021](https://ictir2021.org/awards/) (first author)
+* [Best Student Paper Award, ICTIR 2021](https://ictir2021.org/awards/) (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
 * First Prize of Academic Scholarships, Nanjing Normal University, 2014
 * Excellent Student, Nanjing Normal University, from 2012 to 2014
