@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the [School of Information Technology and Electrical Engineering](https://itee.uq.edu.au/), [The Univesity of Queensland](https://www.uq.edu.au/), Australia. I work with A/Prof. [Guido Zuccon](http://ielab.io/people/guido-zuccon) and Dr. [Bevan Koopman](https://bevankoopman.github.io/). Prior to PhD, I got my bachelor and master’s degrees in Statistics and worked for 2.5 years in a financial technology company as a data analyst. 
+I am currently a third-year Ph.D. student at the [School of Information Technology and Electrical Engineering](https://itee.uq.edu.au/), [The Univesity of Queensland](https://www.uq.edu.au/), Australia. I work with A/Prof. [Guido Zuccon](http://ielab.io/people/guido-zuccon) and Dr. [Bevan Koopman](https://bevankoopman.github.io/). Prior to PhD, I got my bachelor and master’s degrees in Statistics and worked for 2.5 years in a financial technology company as a data analyst. 
 
-My research interest mainly lies in Online Learning to Rank, Data Privacy and Federated Learning.
+My research interests mainly lie in Information Retrieval, Data Privacy and Federated Learning with focusing application on Online Learning to Rank.
 
 Publications
 ---
@@ -18,20 +18,23 @@ Publications
     {% include archive-single.html %}
   {% endfor %}</ul>
   
-
-Academic Service
----
-* Subreviewer of SIGIR 2022 
-* Session chair of the Privacy and Cybersecurity session at CIKM 2021
-* Student Volunteer of CIKM 2021, SIGIR 2021
-
-
+  
 Honors & Awards
 ---
 * Google PhD Fellowship, 2022
-* SIGIR Student Travel Grant in SIGIR 2022
+* SIGIR Student Travel Grant, SIGIR 2022
 * [**Best Student Paper Award**, ICTIR 2021](https://ictir2021.org/awards/) (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
+* First Prize of Academic Scholarships, Nanjing Normal University, 2014
+* Excellent Student, Nanjing Normal University, from 2012 to 2014
+
+
+Academic Service
+---
+* Reviewer: AISTATS 2023
+* Subreviewer: SIGIR 2022 
+* Session chair of the Privacy and Cybersecurity session at CIKM 2021
+* Student Volunteer: CIKM 2021, SIGIR 2021
 
 
 Teaching
