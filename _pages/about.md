@@ -31,7 +31,7 @@ Honors & Awards
 
 Academic Service
 ---
-* Reviewer: AISTATS 2023, WWW 2023, KDD 2023
+* Reviewer: AISTATS 2023, WWW 2023, KDD 2023, ICTIR 2023
 * Subreviewer: SIGIR 2022 
 * Session chair of the Privacy and Cybersecurity session at CIKM 2021
 * Student Volunteer: CIKM 2021, SIGIR 2021
