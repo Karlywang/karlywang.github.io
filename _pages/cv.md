@@ -50,6 +50,7 @@ Publications
 Honors & Awards
 ---
 * [Google PhD Fellowship, 2022](https://research.google/outreach/phd-fellowship/recipients/?category=2022)
+* SIGIR Student Travel Grant, SIGIR 2023
 * SIGIR Student Travel Grant, SIGIR 2022
 * [Best Student Paper Award, ICTIR 2021](https://ictir2021.org/awards/) (first author)
 * Honorable Mention (top 20%), International Mathematical Contest in Modeling (MCM), 2014
@@ -60,7 +61,7 @@ Honors & Awards
 
 Academic Service
 ---
-* Reviewer: AISTATS 2023, WWW 2023, KDD 2023, ICTIR 2023
+* Reviewer: AISTATS 2023/2024, WWW 2023/2024, KDD 2023, ICTIR 2023
 * Subreviewer: SIGIR 2022
 * Session chair of the Privacy and Cybersecurity session at CIKM 2021
 * Student Volunteer: CIKM 2021, SIGIR 2021
@@ -72,9 +73,13 @@ Teaching
 * Tutoring of Data Science Capstone Project (DATA7901/7902/7903) at The University of Queensland (St Lucia campus) 
   * Master course
   * Semester 1 & 2, 2021
-  * Supervision for Master Capstone Project on Federated Learning
+  * Supervision for Master Capstone Project on **Federated Learning**
 
-
+* Tutoring of Thesis Project Course (COMP7811/7861/7881/DECO7861/ENGG7813/7817/METR4911/REIT4841/4881) at The University of Queensland (St Lucia campus) 
+  * Honour and Master course
+  * Semester 1 & 2, 2023
+  * Supervision for Honour's and Master's Project on **Robust Information Retrieval**
+  
 Language
 ---
 * Mandarin Chinese (native)
