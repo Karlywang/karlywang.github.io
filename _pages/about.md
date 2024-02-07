@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student at the [School of Information Technology and Electrical Engineering](https://itee.uq.edu.au/), [The Univesity of Queensland](https://www.uq.edu.au/), Australia. I work with A/Prof. [Guido Zuccon](http://ielab.io/people/guido-zuccon) and Dr. [Bevan Koopman](https://bevankoopman.github.io/). Prior to PhD, I got my bachelor and master’s degrees in Statistics and worked for 2.5 years in a financial technology company as a data analyst. 
+I am currently a fourth-year Ph.D. student at the [School of Information Technology and Electrical Engineering](https://itee.uq.edu.au/), [The Univesity of Queensland](https://www.uq.edu.au/), Australia. I work with Prof. [Guido Zuccon](http://ielab.io/people/guido-zuccon) and A/Prof. [Bevan Koopman](https://bevankoopman.github.io/). Prior to PhD, I got my bachelor and master’s degrees in Statistics and worked for 2.5 years in a financial technology company as a data analyst. 
 
 My research interests mainly lie in Information Retrieval, Data Privacy and Federated Learning with focusing application on Online Learning to Rank.
 
