@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ---
-* Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - current
+* Ph.D Candidate in Computer Science, The University of Queensland, Australia, 2020 - 2024
 * M.S. in Applied Statistics, Southeast University, China, 2015 - 2017
 * B.S. in Statistics, Nanjing Normal University, China, 2011 - 2015
 
